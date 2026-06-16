@@ -5,7 +5,7 @@ PredictOps AI is an AI-powered DevOps monitoring and self-healing platform desig
 Built using modern AI-driven workflows and interactive dashboards, the platform helps DevOps teams proactively manage infrastructure instead of reacting to failures.
 
 🌐 Live Dashboard:
-PredictOps AI Dashboard
+https://predictopsv1.netlify.app/
 
 ✨ Features
 📊 Real-Time Monitoring
